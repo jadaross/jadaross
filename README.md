@@ -1,16 +1,15 @@
-## Hi there 👋
+### kia ora, I'm Jada 👋
 
-<!--
-**jadaross/jadaross** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Systems Engineer at [Snyk](https://snyk.io) by day. Aussie in London. This GitHub is where I mess around with AI for fun.
 
-Here are some ideas to get you started:
+I think anyone can be at the bleeding edge of AI if they want to be, it's never been easier to build something real on a weekend. Most of what's pinned here started as "wonder if I could…" and grew from there.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**stuff I'm building**
+
+🎴 **[te-ataarangi](#)** — a free web tool for learning te reo Māori through the Te Ataarangi method. No translation, no gamification, no corrections. Just rākau, silence, and discovery.
+
+🐱 **[cat-snap](#)** — a community map for spotting street cats. Native SwiftUI. Currently prepping for TestFlight.
+
+👕 **[listd](#)** — point your camera at clothes you want to sell, get an AI-generated listing, market pricing, and a recommendation on which platform will move it fastest. Vinted, Depop, eBay.
+
+💬 **[haggle](#)** — Chrome extension that drops a natural-feeling opener to Vinted buyers who favourite your listings. Powered by Claude, paced like a real human.
