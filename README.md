@@ -10,6 +10,4 @@ I think anyone can be at the bleeding edge of AI if they want to be, it's never 
 
 🐱 **[cat-snap](#)** — a community map for spotting street cats. Native SwiftUI. Currently prepping for TestFlight.
 
-👕 **[bower](#)** — point your camera at clothes you want to sell, get an AI-generated listing, market pricing, and a recommendation on which platform will move it fastest. Vinted, Depop, eBay.
-
 💬 **[haggle](#)** — Chrome extension that drops a natural-feeling opener to Vinted buyers who favourite your listings. Powered by Claude, paced like a real human.
